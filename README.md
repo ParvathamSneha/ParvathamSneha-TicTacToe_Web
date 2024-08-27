@@ -47,3 +47,12 @@ Open 'index.html' in your preferred web browser to start playing the game.
 ->The game will automatically detect when a player wins or if there’s a draw.
 
 ->Refresh the page to reset the game.
+
+output:
+
+![image](https://github.com/user-attachments/assets/b82e4fcd-cf66-47c8-b362-c2649dd28ce4)
+![image](https://github.com/user-attachments/assets/ebad4d4e-551a-4a5b-b77f-b37739876559)
+![image](https://github.com/user-attachments/assets/b40e5312-0d5a-4643-882a-f013231ad5a9)
+
+
+
