@@ -4,7 +4,7 @@ Description:
 Web-based Tic Tac Toe game implemented using HTML, CSS, and JavaScript. The game features an interactive board where two players can take turns to mark X and O, with automatic win detection and a clear reset functionality.
 
 
-*Features:
+* Features:
 
 Interactive Game Board: Players can click on cells to make their move.
 
@@ -15,7 +15,7 @@ Responsive Design: Game is designed to work on various screen sizes and devices.
 Simple and Intuitive UI: Easy to understand and play with a clear user interface.
 
 
-*Technologies Used:
+* Technologies Used:
 
 HTML5: Structuring the game board and elements.
 
@@ -28,7 +28,7 @@ Git: Version control and project management.
 GitHub: Repository hosting and collaboration.
 
 
-*Installation:
+* Installation:
 
 1.Clone the Repository:
 git clone https://github.com/ParvathamSneha/TicTacToe_Web.git
@@ -40,7 +40,7 @@ cd TicTacToe_Web
 Open 'index.html' in your preferred web browser to start playing the game.
 
 
-*Usage:
+* Usage:
 
 ->Click on any cell in the game board to make a move.
 
